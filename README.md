@@ -45,7 +45,7 @@ A full-stack application for processing and managing invoices using OCR and LLM 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ankit2003A/Gallagher-and-Mohan.git
+   git clone https://github.com/ankit2003A/Gallagher-Mohan.git
    cd gallaghermohan
 
 ### Backend Setup
