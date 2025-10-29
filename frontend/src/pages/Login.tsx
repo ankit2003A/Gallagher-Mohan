@@ -34,7 +34,7 @@ export default function Login() {
                   await login(values.email, values.password);
                   navigate('/');
                 } catch (err) {
-                  setError('Failed to log in');
+                  setError('User not found. Please register first.');
                 } finally {
                   setSubmitting(false);
                 }
